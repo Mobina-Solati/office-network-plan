@@ -1,8 +1,9 @@
 Network Lab Project - Programming Company Infrastructure
+
 Overview
 This project outlines the design and implementation of a network infrastructure for a programming company. The layout includes various rooms such as the server room, accounting, dining room, conference room, and workspaces for backend and frontend programmers, along with necessary networking equipment.
-Project Details
 
+Project Details
 Company Name: Programming Company
 Building Dimensions: 40m x 22m
 Rooms: Server Room, Accounting, Dining Room, Conference Room, Waiting Room, Manager's Room, Backend Programmers, Frontend Programmers
@@ -10,7 +11,6 @@ Facilities: WC, Entrance
 Network Equipment: Switches, routers, access points, servers, patch panels, cabling, racks, and wall/floor ducts
 
 Equipment List
-
 Layer 3 8-Port Switch: WS-C3560CX-8PC-S (1 unit)
 16-Port Switch: DGS-1016D (2 units)
 Server: HP ProLiant DL360 G9 (1 unit)
@@ -39,10 +39,5 @@ Testing: Verify connectivity and performance across all rooms.
 
 Contributors
 
-[Your Name] - Project Lead
+[Mobina Solati] - Project Lead
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-Acknowledgments
-
-Thanks to the equipment suppliers and the network lab team for their support.
